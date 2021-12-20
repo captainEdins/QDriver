@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Driver</string>
+    <string name="about">we believe that everyThing in the universe has a voice and can be heard in a language we as humans understand. Our work is simply to make these Things Smart so we can understand each other.</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="reset">Reset Password</string>
+    <string name="welcome">Welcome happy to see you</string>
+    <string name="inspired">It all starts by login into your account.</string>
+    <string name="here_to_help">don\'t worry help is here.</string>
+    <string name="one_more_step">You are one step away champ.</string>
+    <string name="can_t_remember_your_password">can\'t remember your password ?</string>
+    <string name="remember_your_password">you have a hint of your password ?</string>
+    <string name="greeting">Good Morning</string>
+    <string name="ask_more">How was your night</string>
+    <string name="name">Name</string>
+    <string name="driving_licence">Driving Licence</string>
+    <string name="driving_licence_number">t6218uilu2-71</string>
+    <string name="name_user">Joel Muigai</string>
+    <string name="count">23</string>
+    <string name="driver_licence_expiry">Driver Licence Expiry</string>
+    <string name="date">23/23/2021</string>
+    <string name="vehicle_insurance_expiry">Vehicle Insurance Expiry</string>
+    <string name="make_a_request">Make a Request</string>
+    <string name="pending_request">Pending Requests</string>
+    <string name="approved_requests">Approved Requests</string>
+    <string name="make_request">Make Request</string>
+    <string name="allowance">Allowance</string>
+    <string name="casuals">Casuals</string>
+    <string name="refill">Fuel Refill</string>
+    <string name="maintainace">Maintainace</string>
+    <string name="inspection">Inspection</string>
+    <string name="leave">Leave Application</string>
+    <string name="police">Traffic Charges</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "336985419997",
+    "firebase_url": "https://driver-afa32-default-rtdb.firebaseio.com",
+    "project_id": "driver-afa32",
+    "storage_bucket": "driver-afa32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336985419997:android:abeb2324ce417e2a626b34",
+        "android_client_info": {
+          "package_name": "com.safi.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336985419997-m6rll784jfpj2clmm6nabj2t9fl1t3v9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.safi.driver",
+            "certificate_hash": "5ead5b7555e264555bb63530f09d919ad1f36248"
+          }
+        },
+        {
+          "client_id": "336985419997-2v99vreu4jg2vtlsj654g3ihl7k2q2fe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUUeER0z5DBAPWWoINohOY1XACvKHyI9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336985419997-2v99vreu4jg2vtlsj654g3ihl7k2q2fe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
